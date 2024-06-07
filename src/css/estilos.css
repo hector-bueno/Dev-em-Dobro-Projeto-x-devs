@@ -6,7 +6,28 @@ body {
 }
 
 .cabecalho {
-    background-color: red;
     text-align: center;
-    padding: 60px;
+    padding: 60px 0;
+}
+
+.cabecalho h1 {
+    color: #f1ecff;
+    font-size: 45px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+
+.personagens-slider {
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    /* 1:19:34 - Live do CSS */
+}
+
+.lista-personagens {
+    background-color: orange;
+    width: 330px;
+    height: 520px;
 }
