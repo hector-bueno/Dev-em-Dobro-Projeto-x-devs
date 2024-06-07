@@ -1,0 +1,12 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    background-image: url('../imagens/fundo-base.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cabecalho {
+    background-color: red;
+    text-align: center;
+    padding: 60px;
+}
